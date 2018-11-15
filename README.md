@@ -12,7 +12,7 @@
 
 TODO
 
-## Log Preprocessing
+## Query Log Preprocessing
 
 TODO
 
