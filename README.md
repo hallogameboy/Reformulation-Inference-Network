@@ -7,6 +7,8 @@
 * NumPy
 * SciPy
 * Yaml
+* ujson
+* smart_open
 
 ## General Instructions
 
