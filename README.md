@@ -23,7 +23,7 @@ TODO
 
 ## Query Session Preprocessing
 
-The query logs should be prepreocessed into two files, including data/session.train and data/session.test, with the following plain text format.
+The query logs should be prepreocessed into two files, including data/session.train and data/session.test, with the following plain text format. Note that all of cleaning processes should be accomplished before generaing the session data.
 
 ```
 ...
