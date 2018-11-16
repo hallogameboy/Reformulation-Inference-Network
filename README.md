@@ -2,7 +2,7 @@
 
 ## Required Packages
 
-* Python3 (or a compatible version)
+* Python 3.5.2 (or a compatible version)
 * Tensorflow 1.4 (or a compatible version)
 * NumPy
 * SciPy
