@@ -10,6 +10,10 @@
 * ujson
 * smart_open
 
+## Quick Run
+
+TODO
+
 ## General Instructions
 
 1. Construct the heterogenous network of queries, terms, and websites based on the search log.
