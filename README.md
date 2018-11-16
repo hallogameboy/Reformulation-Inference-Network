@@ -12,7 +12,10 @@
 
 ## General Instructions
 
-TODO
+1. Construct the heterogenous network of queries, terms, and websites based on the search log.
+2. Train the embedding for each node in the network, e.g., using node2vec.
+3. Train the Reformulation Inference Network.
+4. Evaluate and dump the predicted scores.
 
 ## Query Log Preprocessing
 
