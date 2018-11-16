@@ -1,0 +1,8 @@
+path_nodeid: <path_to_nodeid_dictionary>
+
+path_data: <path_to_data>
+
+path_emb: <path_to_embeddings>
+
+path_prediction: <path_to_prediction>
+
