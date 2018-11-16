@@ -21,9 +21,26 @@ TODO
 3. Train the Reformulation Inference Network.
 4. Evaluate and dump the predicted scores.
 
-## Query Log Preprocessing
+## Query Session Preprocessing
 
-TODO
+The query logs should be prepreocessed into two files, including data/session.train and data/session.test, with the following format.
+
+```
+...
+ID<tab>query1<tab>timestamp1<tab>website1-1#website1-2#website1-3...<tab>query2<tab>timestamp2<tab>website2-1#website2-2#website2-3...<tab>...
+...
+```
+
+## Candidate Generation
+
+The candidates of each query should also be preprocessed as a list in the file data/candidates.suggestion with the following json format.
+
+```
+...
+{"query": <query>, "candidates": [<candidate1>, <candidate2>, <candidate3>, ...]}
+...
+```
+
 
 ## Heterogeneous Graph Construction and Embedding
 
