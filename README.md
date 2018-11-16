@@ -106,7 +106,7 @@ More parameter settings can be looked up in the top of the code. In the training
 
 To evaluate the performance, eval.py has the exactly same format of parameter settings to train.py. The following command-line instruction can help evaluate the performance of the predictions in the given path.
 
-``bash
+```bash
 cd RIN
 python3 eval.py
 ```
