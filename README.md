@@ -12,6 +12,8 @@
 
 ## General Instructions
 
+We currently release the version of query discriminator and reformulation inferencer, the version with query generator is under refactoring and would come soon.
+
 1. Construct the heterogenous network of queries, terms, and websites based on the search log.
 2. Train the embedding for each node in the network, e.g., using node2vec.
 3. Train the Reformulation Inference Network.
